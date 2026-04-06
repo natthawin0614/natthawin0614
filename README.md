@@ -48,9 +48,7 @@ class NatthawinTamprasert:
         self.role      = "Data Scientist & AI Developer"
         self.degree    = "BSc Physics + BEng IoT Systems Engineering (Dual Degree) @ KMITL"
         self.medal     = "🥉 Bronze Medal — Super AI Engineer Season 5"
-        self.record    = "Won 4 of 7 National Hackathons (AIAT · CPAXTRA · BOL · CHULA)"
-        self.now       = "AI Research Intern @ Dhipaya Insurance (ทิพยประกันภัย)"
-        self.gpa       = 3.59
+        self.record    = "Won 4 of 7 National Hackathons (AIAT · CPAXTRA · BOL · CHULA)
         self.interests = [
             "Time-Series Forecasting", "NLP", "Computer Vision",
             "RAG / LLM Systems", "IoT + AI Integration"
