@@ -140,6 +140,37 @@ Stage 4  Damage % Estimation       Geometric formula: A_crop = A_full / Z²
 
 </details>
 
+### other
+<details>
+<summary><b>📜 CAI Club Hackathon 2025: 7-11 × AI</b> &nbsp;·&nbsp; CPALL × Creative AI Club &nbsp;·&nbsp; 2025</summary>
+<br>
+
+- Built **LIFT** (Language model Intelligence For Thai's 7-11) — a social listening system that monitors Thai news to predict product demand spikes at 7-Eleven stores
+- Pipeline: news ingestion → LLM-based summarization & product category mapping → **Typhoon API** sentiment classification (positive/negative) → high-demand product flagging
+- Estimated opportunity cost savings of **฿42.5M** if preventing a 7-day stockout of a viral product (e.g., Dubai chocolate) driven by food influencer trends
+- Partner: **Wisesight** (Thai social listening platform)
+
+</details>
+
+<details>
+<summary><b>🏭 Smart Factory Hackathon — Supply Chain AI System</b> &nbsp;·&nbsp; KMITL &nbsp;·&nbsp; 2025</summary>
+<br>
+
+- Developed end-to-end AI system for inventory status analysis, risk assessment, and automated procurement recommendations across a supply chain pipeline
+- Applied **GMM (Gaussian Mixture Model)** unsupervised clustering to discover hidden patterns and anomalies in inventory without requiring labeled data
+- Deployed **Qwen 2.5 GGUF** as a fully local LLM to generate human-readable summaries — preventing sensitive corporate data from leaving the organization
+
+</details>
+
+<details>
+<summary><b>🌱 KMITL Innovation Expo 2025 — Carbon Credit System</b> &nbsp;·&nbsp; KMITL &nbsp;·&nbsp; 2025</summary>
+<br>
+
+- Developed AI-powered carbon credit prediction system using **Transformer/LSTM** models integrated with IoT sensors (CH₄, CO₂) and NB-IoT for real-time environmental monitoring
+- Created monthly forecasting model combining sensor data with machine learning for carbon credit trading applications
+
+</details>
+
 ---
 
 ## `projects`
