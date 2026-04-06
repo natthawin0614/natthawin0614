@@ -15,7 +15,7 @@
 
 # `> Natthawin Tamprasert`
 
-**`Data Scientist · AI and ML  Developer · IoT Systems Engineer`**
+**`AI & ML Engineer · Data Scientist · IoT Systems Engineer`**
 
 *Industrial Physics & IoT Engineering @ KMITL · Super AI Engineer S5 🥉 Bronze Medalist*
 
