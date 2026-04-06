@@ -69,7 +69,7 @@ class NatthawinTamprasert:
 | 🥇 | 1st Place | Liver Fibrosis Severity Prediction | AIAT × CHULA |
 | 🥈 | 1st Runner-up | Sales Forecasting & Product Optimization | AIAT × CPAXTRA |
 | 🏅 | Honorable Mention | Crime Charges Analysis | AIAT |
-| 🔟 | Top 10 Representative | SMART FACTORY Hackathon 2025 | KMITL |
+| 🔟 | Top 10 Representative | SMART FACTORY Hackathon 2025 | Sony |
 | 📜 | Certificate of Completion | AI Builders Program | AI Builders 2023 |
 | 📜 | Certificate of Accomplishment | Brain Code 101 AI Builders Advanced | AI Builders 2023 |
 
